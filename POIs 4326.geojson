@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "POIs 4326",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Alausa Secretariat", "Category": "Government", "Picture": "https://raw.githubusercontent.com/DonToba/NITP-Demo/refs/heads/main/Alausa%20Secretatiat.png" }, "geometry": { "type": "Point", "coordinates": [ 3.360739614828952, 6.615507075402688 ] } },
+{ "type": "Feature", "properties": { "Name": "Lagos State House of Assembly", "Category": "Government", "Picture": "https://raw.githubusercontent.com/DonToba/NITP-Demo/refs/heads/main/Lagos%20State%20House%20of%20Assembly.jpg" }, "geometry": { "type": "Point", "coordinates": [ 3.36350083810433, 6.613706570051624 ] } },
+{ "type": "Feature", "properties": { "Name": "Ministry of Physical Planning", "Category": "Government", "Picture": "https://raw.githubusercontent.com/DonToba/NITP-Demo/refs/heads/main/Ministry%20of%20Physical%20Planning.jpg" }, "geometry": { "type": "Point", "coordinates": [ 3.364492874002578, 6.615419375799113 ] } },
+{ "type": "Feature", "properties": { "Name": "Ikeja City Mall", "Category": "Recreation", "Picture": "https://raw.githubusercontent.com/DonToba/NITP-Demo/refs/heads/main/Ikeja%20City%20Mall.jpg" }, "geometry": { "type": "Point", "coordinates": [ 3.357990114378862, 6.613874071407725 ] } },
+{ "type": "Feature", "properties": { "Name": "Ndubuisi Kanu Park", "Category": "Recreation", "Picture": "https://raw.githubusercontent.com/DonToba/NITP-Demo/refs/heads/main/Ndubuisi%20Kanu%20Park.jpg" }, "geometry": { "type": "Point", "coordinates": [ 3.365608846905781, 6.614269215946457 ] } }
+]
+}
