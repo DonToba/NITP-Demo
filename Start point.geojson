@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Start point",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Sheraton Lagos Hotel (Start Point)", "Category": "Hospitality", "Picture": "https://raw.githubusercontent.com/DonToba/NITP-Demo/refs/heads/main/Sheraton.jpg" }, "geometry": { "type": "Point", "coordinates": [ 3.360011551133915, 6.583801581555593 ] } }
+]
+}
